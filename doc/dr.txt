@@ -1,0 +1,10 @@
+ex02
+
+bien
+
+---
+
+10e2 = 10 * (10^2) = 1000.0
+
+imprimer des étiquettes
+
